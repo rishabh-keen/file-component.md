@@ -1,4 +1,7 @@
 <h1 align=center> What is File Component and How we can use it </h1>
+<p align=center> [Code Pic](https://github.com/rishabh-keen/photos.md/blob/master/1.png) </p>
+<p align=center> [Output Log](https://github.com/rishabh-keen/photos.md/blob/master/2.png) </p>
+<p align=center> [POM File](https://github.com/rishabh-keen/photos.md/blob/master/pom) </p>
 
 <p align=center>The File component provides access to file systems, allowing files to be processed by any other Camel Components or messages from other components to be saved to disk. It supports both consumer and producer. </p>
 
